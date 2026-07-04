@@ -1,6 +1,8 @@
 # mini-project
-
+-------------------------------------------------------------------------
 Puzzle Rearrangement Game – Explanation
+
+
 A Puzzle Rearrangement Game is a sliding puzzle built using Python Tkinter.
 It displays a 3 × 3 grid with numbered tiles and one empty space.
 The tiles are randomly shuffled at the start of the game.
@@ -11,7 +13,12 @@ The game uses grid layouts to organize the puzzle tiles.
 It uses lists to store the current and target puzzle arrangements.
 The program checks after every move whether the puzzle is solved.
 When the puzzle is completed, it displays a "Congratulations! Puzzle Solved!" message.
+
+
+---------------------------------------------------------------------------
 ALARM CLOCK
+
+
 An Alarm Clock is a Python application that alerts the user at a specified time.
 The user enters the alarm time in HH:MM:SS format.
 The program continuously checks the current system time.
